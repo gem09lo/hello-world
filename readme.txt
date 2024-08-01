@@ -1,2 +1,2 @@
 Hello!
-It's a sunny day today! Currently in a heatwave
+It's a sunny day today! We are currently in a heatwave!
